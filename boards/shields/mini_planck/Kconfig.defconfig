@@ -1,0 +1,13 @@
+if SHIELD_MINI_PLANCK
+
+config ZMK_KEYBOARD_NAME
+    default "Mini Planck"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default n
+
+endif
+
+config ZMK_SPLIT
+    default n
+endif

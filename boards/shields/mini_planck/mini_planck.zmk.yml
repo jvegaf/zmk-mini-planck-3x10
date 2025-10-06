@@ -1,0 +1,12 @@
+file_format: "1"
+id: mini_planck
+name: Mini Planck
+type: shield
+url: https://github.com/jvegaf/zmk-mini-planck/tree/main/Mini_planck1.0
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - mini_planck
+

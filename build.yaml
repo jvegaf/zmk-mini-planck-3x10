@@ -19,6 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: cygnus_left
-  - board: nice_nano_v2
-    shield: cygnus_right
+    shield: mini_planck
+
